@@ -2,7 +2,7 @@
 
 ### 💻 Web Developer | 🤖 AI/ML Enthusiast | 🚀 Aspiring Software Developer
 
-Welcome to my GitHub profile! I'm a Computer Science student passionate about building practical applications, learning modern technologies, and turning ideas into real-world projects.
+Welcome to my GitHub profile! I'm a Aiml student passionate about building practical applications, learning modern technologies, and turning ideas into real-world projects.
 
 I enjoy working with web technologies, Python, databases, and Artificial Intelligence & Machine Learning.
 
@@ -10,14 +10,14 @@ I enjoy working with web technologies, Python, databases, and Artificial Intelli
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science Student
-* 💻 Interested in Web Development & Software Development
+* 🎓 AiMl Student
+* 💻 Interested in Artificial Inteligence 
 * 🤖 Exploring Artificial Intelligence & Machine Learning
 * 🐍 Learning and building projects with Python
 * 🗄️ Interested in Database Management
 * 🚀 Building real-world projects to improve my development skills
 * 📚 Always learning and exploring new technologies
-* 🎯 Goal: Become a professional software developer
+* 🎯 Goal: Become a professional AIML developer
 
 ---
 
