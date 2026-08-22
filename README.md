@@ -164,7 +164,7 @@ I'm always interested in connecting with developers, students, recruiters, and p
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/musaib-sayyad-045a23321">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
